@@ -1,0 +1,13 @@
+# PDF
+*.pdf
+
+# MD
+Agents_plan.md
+CodeGen_dialog_01.md
+CodeGen_dialog_02.md
+Dialog01_brief.md
+Dialog01_long.md
+
+#
+_draft
+_out
